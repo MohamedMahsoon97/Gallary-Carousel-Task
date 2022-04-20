@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gallary-Carousel-Task/static/css/main.61fe9b19.chunk.css",
+    "main.js": "/Gallary-Carousel-Task/static/js/main.ceea3029.chunk.js",
+    "main.js.map": "/Gallary-Carousel-Task/static/js/main.ceea3029.chunk.js.map",
+    "runtime-main.js": "/Gallary-Carousel-Task/static/js/runtime-main.9301e4bb.js",
+    "runtime-main.js.map": "/Gallary-Carousel-Task/static/js/runtime-main.9301e4bb.js.map",
+    "static/css/2.7f8295b6.chunk.css": "/Gallary-Carousel-Task/static/css/2.7f8295b6.chunk.css",
+    "static/js/2.7ea4844a.chunk.js": "/Gallary-Carousel-Task/static/js/2.7ea4844a.chunk.js",
+    "static/js/2.7ea4844a.chunk.js.map": "/Gallary-Carousel-Task/static/js/2.7ea4844a.chunk.js.map",
+    "index.html": "/Gallary-Carousel-Task/index.html",
+    "static/css/2.7f8295b6.chunk.css.map": "/Gallary-Carousel-Task/static/css/2.7f8295b6.chunk.css.map",
+    "static/css/main.61fe9b19.chunk.css.map": "/Gallary-Carousel-Task/static/css/main.61fe9b19.chunk.css.map",
+    "static/js/2.7ea4844a.chunk.js.LICENSE.txt": "/Gallary-Carousel-Task/static/js/2.7ea4844a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9301e4bb.js",
+    "static/css/2.7f8295b6.chunk.css",
+    "static/js/2.7ea4844a.chunk.js",
+    "static/css/main.61fe9b19.chunk.css",
+    "static/js/main.ceea3029.chunk.js"
+  ]
+}
